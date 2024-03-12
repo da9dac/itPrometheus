@@ -23,8 +23,6 @@
 ---
 
 # 📝 [목차](#index) <a name = "index"></a>
-- [팀원 소개](#team)
-- [기술 스택](#tech)
 - [Idea](#idea)
 - [개발 문서](#document)
 - [아키텍처](#architecture)
