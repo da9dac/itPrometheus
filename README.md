@@ -36,33 +36,6 @@
 - [회고](#retrospection)
 
 
-<details>
-   <summary>BE 담당 파트 (👈 Click)</summary>
-<br />
-  
-+ **김호빈(팀장)**
-  - AWS 아키텍처 설계 및 환경 구축
-  - Git Actions CI/CD 구축
-  - Logging 및 Cloudwatch 모니터링
-  - API Rest docs 문서화
-  - 비디오 관련 기능, 주문/결제 기능, 채널 공지사항 기능
-<Br>
-
- + **김진아**
-   - 채널 기능
-   - T비디오 리뷰 기능
-   - 통합 테스트(채널, 리뷰, 공지사항)
-<Br>
-
-+ **함예준**
-  - 로그인 및 회원가입, OAuth (인증 및 인가 기능) 기능
-  - 회원 정보 관련 CRUD 기능
-  - API Rest docs 문서화
-  - 통합 테스트(회원, 비디오, 인증, 주문)
-<Br>
-</details>
-<Br>
-
 # 🔧 기술 스택 <a name = "tech"></a>
 
 ### Front-end
